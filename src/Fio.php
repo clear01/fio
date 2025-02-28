@@ -9,7 +9,7 @@ class Fio
 {
 
 	/** @var string url Fio REST API */
-	const REST_URL = 'https://fioapi.fio.cz/v1/';
+	const REST_URL = 'https://fioapi.fio.cz/v1/rest/';
 
 	/**
 	 * @todo INKASO does not work
